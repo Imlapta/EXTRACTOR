@@ -4,39 +4,39 @@
   "repository": "https://github.com/DAXXTEAM",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID",
+      "description": "27041528",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API Hash",
+      "description": "0a67358ebccb6a642778e3844f5da335",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token",
+      "description": "6425512691:AAGZsJN5rok4KHvUgwat5YgfkAQXmAdHJCM",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your Bot Username",
+      "description": "Gshsjsosch_bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID (Owner)",
+      "description": "6925723831",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "Comma-separated list of sudo users' IDs",
+      "description": "6925723831",
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "Your channel ID",
+      "description": "-1002436947768",
       "required": true
     },
     "MONGO_URL": {
-      "description": "Your MongoDB URL",
+      "description": "mongodb+srv://piiyush01:TjJRRQLH6iYRbTRV@cluster0.zh1j3ql.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "Flag for premium logs (0 for off, 1 for on)",
+      "description": "-1002242536218",
       "required": true
     }
   },
