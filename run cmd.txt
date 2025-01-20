@@ -1,5 +1,6 @@
-gunicorn app:app & python -m Extractor
-gunicorn app:app & python3 bot.py
 git clone https://github.com/aio-libs/aiohttp.git
-cd aiohttp
-python setup.py install
+gunicorn app:app & python -m Extractor
+
+
+
+
